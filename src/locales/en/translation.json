@@ -70,7 +70,7 @@
               "text": "CRM-CMS aviation website where you can book private aircrafts.",
               "textBottom": "React.js, TypeScript, Next.js, ChakraUI",
               "textRight": "2022",
-              "image": "/cielo.jpg",
+              "image": "cielo.jpg",
               "link":"https://www.cielo-aviation.com/it-IT"
           },
           {
@@ -79,7 +79,7 @@
               "text": "Website of a company that I worked for which specializes in innovative solutions.",
               "textBottom": "React.js, TypeScript, ChakraUI",
               "textRight": "2022",
-              "image": "/hyperting.jpg",
+              "image": "hyperting.jpg",
               "link":"https://www.hyperting.com/"
           },
           {
@@ -88,7 +88,7 @@
               "text": "Shopping website that specializes in providing a wide range of cannabis products.",
               "textBottom": "React.js, TypeScript, ChakraUI",
               "textRight": "2021",
-              "image": "/fattisegreti.jpg",
+              "image": "fattisegreti.jpg",
               "link":"https://www.fattisegreti.it/"
           },
           {
@@ -97,7 +97,7 @@
               "text": "Website of one of the oldest shops in Bologna founded in 1783 offering unique items.",
               "textBottom": "React.js, TypeScript",
               "textRight": "2021",
-              "image": "/aguzzeria.jpg",
+              "image": "aguzzeria.jpg",
               "link":"https://aguzzeriadelcavallo.it/"
           },
           {
@@ -106,7 +106,7 @@
               "text": "Fashion shopping website providing variety of stylish and trendy clothes.",
               "textBottom": "React.js, TypeScript, Next.js, Apollo",
               "textRight": "2020",
-              "image": "/feliciotto.jpg",
+              "image": "feliciotto.jpg",
               "link":"https://feliciotto.com/"
           }
         ]
