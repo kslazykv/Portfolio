@@ -1,5 +1,5 @@
 import { FC } from "react"
-import { Circle, Flex, Text, Image } from "@chakra-ui/react"
+import { Flex, Text, Image } from "@chakra-ui/react"
 import { Wrapper } from "../Wrapper"
 import { useTranslation } from "react-i18next"
 
@@ -21,7 +21,7 @@ export const About : FC<Props> = (props) => {
                     textAlign='justify'
                 />
                 <Image 
-                    src={'me_bergen.jpg'}
+                    src={'./Portfolio/me_bergen.jpg'}
                     w={{base:'100%', md:'40%'}}
                 />
             </Flex>

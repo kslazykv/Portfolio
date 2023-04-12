@@ -2,7 +2,6 @@ import { FC } from "react"
 import { Flex, useColorModeValue, Text, Button, HStack, Link } from "@chakra-ui/react"
 import { useTranslation } from "react-i18next"
 
-
 type Props = {
     title?: string
     subtitle?: string
@@ -25,7 +24,7 @@ export const ProjectBox : FC<Props> = (props) => {
 
     const colorHover = useColorModeValue('white','black')
     const colorHoverText = useColorModeValue('rgba(246,173,85)','#6c24b5')
- 
+
   
     return(
       <Flex dir="column" px={{base:2,md:4}} py={{md:2}}  flexDir='column' w={{base:'100%',md:'360px'}}{...rest}>

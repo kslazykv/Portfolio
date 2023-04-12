@@ -2,7 +2,7 @@ import { ChevronDownIcon, ChevronUpIcon } from "@chakra-ui/icons";
 import { VStack, Text, SimpleGrid, SimpleGridProps, Button, Collapse, useColorModeValue, useBreakpointValue } from "@chakra-ui/react";
 import { FC, useState } from "react";
 import { useTranslation } from "react-i18next";
-import { ProjectBox } from "../page/Projects/ProjectBox";
+import { ProjectBox } from "../page/projects/ProjectBox";
 import { ShortBox } from "../page/technologies/ShortBox";
 
 type Props = {
