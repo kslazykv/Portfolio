@@ -1,0 +1,230 @@
+{
+    "menu":{
+        "about":"O Mnie",
+        "products":"Portfolio", 
+        "testymonial":"Technologie", 
+        "contact":"Kontakt",
+        "cancel":"Zamknij"
+    },
+    "home": "Cześć!, Tu Karolina",
+    "about":{
+        "title": "Kilka słów o mnie",
+        "text": "&nbsp;&nbsp;&nbsp;&nbsp; Cześć! Nazywam się Karolina i jestem z zamiłowania front-end developerem z kilkuletnim doświadczeniem w tej dziedzinie. Ze słonecznej Bolonii we Włoszech niedawno przeprowadziłam się do Bergen w Norwegii, aby podjąć nowe możliwości w branży IT. <br> &nbsp;&nbsp;&nbsp;&nbsp; Przez całą swoją karierę miałam wiele okazji do pracy nad różnorodnymi projektami z zakresu tworzenia stron internetowych i aplikacji webowych, w tym tworzenia nowoczesnych stron oraz angażujących aplikacji webowych. Posiadam głęboką wiedzę na temat technologii z zakresu front-end i znam podstawy z zakresu back-endu i projektowania, co pozwala mi skutecznie współpracować z interdyscyplinarnymi zespołami. <br> &nbsp;&nbsp;&nbsp;&nbsp; Zawsze staram się udoskonalać swoją pracę i dostarczać jak najlepsze wyniki, dlatego na bieżąco śledzę najnowsze narzędzia i frameworki w branży. Bez względu na to, czy tworzę responsywną stronę internetową od podstaw, czy optymalizuję już istniejącą aplikację, zawsze dążę do perfekcji i dbam o szczegóły. <br> &nbsp;&nbsp;&nbsp;&nbsp; Jedną z rzeczy, które sprawiają mi największą przyjemność w pracy związaną z tworzeniem stron internetowych, jest współpraca z innymi deweloperami, aby stworzyć funkcjonalne i estetyczne produkty. Wierzę, że praca zespołowa i dążenie do osiągnięcia wspólnego celu są kluczowe dla sukcesu każdego projektu. <br> &nbsp;&nbsp;&nbsp;&nbsp; Jestem również zaangażowana w ciągłe uczenie się i rozwój osobisty, zawsze chętnie podejmuję nowe wyzwania, aby rozwijać swoje umiejętności. Moim celem jest zostać full-stack developerem i kontynuować moją karierę w branży IT. Jeśli szukasz oddanego front-end developera, który pomoże Ci zrealizować Twoje projekty, nie wahaj się i skontaktuj ze mną!"
+    },
+    "projectPage": {
+      "title": "Projekty",
+      "subtitle":"Przez całą swoją karierę zawodową jako front-end developer brałem udział w ciekawych i ekscytujących projektach. Cieszę się, że mogę zaprezentować niektóre z moich prac, w tym projekty, które zrealizowałem zarówno jako część zespołu, jak i indywidualnie. Poświęć chwilę na zapoznanie się z moim portfolio i skontaktuj się ze mną, jeśli masz jakieś pytania lub uwagi. Nie mogę się doczekać dyskusji z Tobą na temat mojej pracy!.",
+      "components":"Projekty Poboczne:",
+      "website":"Projekty Profesjonalne:",
+      "live":"demo",
+      "code":"kod",
+      "cards": {
+        "components":[
+        {
+            "title": "Ambient Light",
+            "subtitle": "Ambient Light",
+            "text": "Komponent symulujący imersyjnie światło otoczenia wokół obrazu.",
+            "textBottom": "React.js, TypeScript, ChakraUI",
+            "textRight": "2023",
+            "image": "/",
+            "link":"https://github.com/kslazykv/AmbientLight",
+            "inProgres":"true"
+        },
+        {
+            "title": "City Card",
+            "subtitle": "City Card",
+            "text": "Prosty i elegancki element prezentujący piękne miasta z całego świata.",
+            "textBottom": "React.js, TypeScript, ChakraUI",
+            "textRight": "2023",
+            "image": "bergen.jpg",
+            "link":"https://kslazykv.github.io/CityCard/",
+            "code":"https://github.com/kslazykv/CityCard",
+            "inProgres":"true"
+        },
+        {
+            "title": "Film Card",
+            "subtitle": "Film Card",
+            "text": "Układ prezentujący filmy i ich treści z kilkoma sekcjami.",
+            "textBottom": "React.js, TypeScript, ChakraUI",
+            "textRight": "2023",
+            "image": "filmCard.jpg",
+            "link":"https://kslazykv.github.io/FilmCard/",
+            "code":"https://github.com/kslazykv/FilmCard",
+            "inProgres":"true"
+        },
+        {
+            "title": "Travel Card",
+            "subtitle": "Travel Card",
+            "text": "Układ elementów kart prezentujący treści związanych z podróżami i eksploracją.",
+            "textBottom": "React.js, TypeScript, ChakraUI",
+            "textRight": "2022",
+            "image": "travel.jpg",
+            "link":"https://kslazykv.github.io/TravelCard/",
+            "code":"https://github.com/kslazykv/TravelCard"
+        }
+    ],
+    "website":[
+        {
+            "title": "Cielo Aviation",
+            "subtitle": "Cielo Aviation",
+            "text": "Strona lotnicza CRM-CMS gdzie możesz zarezerwować prywatne samoloty.",
+            "textBottom": "React.js, TypeScript, Next.js, ChakraUI",
+            "textRight": "2022",
+            "image": "/cielo.jpg",
+            "link":"https://www.cielo-aviation.com/it-IT"
+        },
+        {
+            "title": "Hyperting",
+            "subtitle": "Hyperting",
+            "text": "Strona mojej byłej firmy, specjalizującej się w innowacyjnych rozwiązaniach.",
+            "textBottom": "React.js, TypeScript, ChakraUI",
+            "textRight": "2022",
+            "image": "/hyperting.jpg",
+            "link":"https://www.hyperting.com/"
+        },
+        {
+            "title": "Fatti-Segreti",
+            "subtitle": "Fatti-Segreti",
+            "text": "Sklep internetowy specjalizujący się w szerokim wyborze produktów cannabis.",
+            "textBottom": "React.js, TypeScript, ChakraUI",
+            "textRight": "2021",
+            "image": "/fattisegreti.jpg",
+            "link":"https://www.fattisegreti.it/"
+        },
+        {
+            "title": "Aguzzeria",
+            "subtitle": "Aguzzeria",
+            "text": "Strona jednego z najstarszych sklepów w Bolonii założonego w 1783.",
+            "textBottom": "React.js, TypeScript",
+            "textRight": "2021",
+            "image": "/aguzzeria.jpg",
+            "link":"https://aguzzeriadelcavallo.it/"
+        },
+        {
+            "title": "Feliciotto",
+            "subtitle": "Feliciotto",
+            "text": "Sklep internetowy sprzedający różne stylowe i trendi ubrania.",
+            "textBottom": "React.js, TypeScript, Next.js, Apollo",
+            "textRight": "2020",
+            "image": "/feliciotto.jpg",
+            "link":"https://feliciotto.com/"
+        }
+      ]
+    }
+    },
+    "technologiesPage":{
+        "title": "Technologie",
+        "subtitle":"Sercem moich technologi jest React.js - popularny i potężny framework, który pozwala mi z łatwością tworzyć responsywne i złożone interfejsy użytkownika. Ponadto używam wielu innych najnowocześniejszych technologii, które bardzo dobrze współpracują z React.js.",
+       "base":"Technologie, z którymi dobrze się czuję:",
+       "medium":"Technologie, o których mam podstawową wiedzę:",
+       "toDo":"Obecnie próbuję się uczyć:",
+        "cards":{
+            "base":[
+            {
+                "title": "HTML5",
+                "image":"HTML.png",
+                "link":"https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+            },
+            {
+                "title": "CSS3",
+                "image":"CSS.png",
+                "link":"https://developer.mozilla.org/en-US/docs/Web/CSS"
+            },
+            {
+                "title": "JavaScript",
+                "image":"JavaScript.png",
+                "link":"https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            },
+            {
+                "title": "TypeScript",
+                "image":"TypeScript.png",
+                "link":"https://www.typescriptlang.org/"
+            },
+            {
+                "title": "React.js",
+                "image":"React.png",
+                "link":"https://react.dev/"
+            },
+            {
+                "title": "ChakraUI",
+                "image":"ChakraUI.png",
+                "link":"https://chakra-ui.com/"
+            },
+            {
+                "title": "Bootstrap",
+                "image":"Bootstrap.png",
+                "link":"https://getbootstrap.com/"
+            },
+            {
+                "title": "MaterialUI",
+                "image":"MaterialUI.png",
+                "link":"https://mui.com/"
+            },
+            {
+                "title": "Git",
+                "image":"Git.png",
+                "link":"https://git-scm.com/"
+            },
+            {
+                "title": "NPM & Yarn",
+                "image":"NPM_Yarn.png",
+                "link":"https://www.npmjs.com/package/yarn"
+            }
+        ],
+        "medium":[
+            {
+                "title": "Next.js",
+                "image":"NextJS.png",
+                "link":"https://nextjs.org/"
+            },
+            {
+                "title": "GraphQL (Apollo)",
+                "image":"GraphQL.png",
+                "link":"https://www.apollographql.com/"
+            },
+            {
+                "title": "React Native",
+                "image":"React.png",
+                "link":"https://reactnative.dev/"
+            }
+        ],
+        "toDo":[
+            {
+                "title": "Back-End",
+                "image":"Back_End.png"
+            },
+            {
+                "title": "Testing",
+                "image":"Testing.png"
+            }
+        ]
+    }
+    },
+    "contactPage":{
+        "title":"Kontakt",
+        "subtitle":"Dziękuję za zatrzymanie się w moim portfolio! Jeśli jesteś zainteresowany omówieniem projektu, współpracą lub po prostu masz pytanie, nie wahaj się ze mną skontaktować :-).",
+        "cards":[
+            {
+                "title": "Moje CV",
+                "image":"cv.png",
+                "link":"CV_KSlazyk.pdf"
+            },
+            {
+                "title": "LinkedIn",
+                "image":"linkedin.png",
+                "link":"https://www.linkedin.com/in/karolina-slazyk/"
+            }, 
+            {
+                "title": "GitHub",
+                "image":"github.png",
+                "link":"https://github.com/kslazykv"
+            }, 
+            {
+                "title": "Email",
+                "image":"email.png",
+                "link":"mailto:kslazykv@gmail.com"
+            }
+
+        ]
+    }
+  }
