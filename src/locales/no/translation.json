@@ -36,7 +36,7 @@
             "text": "Enkel komponent som presenterer vakre byer rundt om i verden.",
             "textBottom": "React.js, TypeScript, ChakraUI",
             "textRight": "2023",
-            "image": "./Portfolio/bergen.jpg",
+            "image": "bergen.jpg",
             "link":"https://kslazykv.github.io/CityCard/",
             "code":"https://github.com/kslazykv/CityCard",
             "inProgres":"true"
@@ -47,7 +47,7 @@
             "text": "Layout som viser filmer og innhold med seksjoner.",
             "textBottom": "React.js, TypeScript, ChakraUI",
             "textRight": "2023",
-            "image": "./Portfolio/filmCard.jpg",
+            "image": "filmCard.jpg",
             "link":"https://kslazykv.github.io/FilmCard/",
             "code":"https://github.com/kslazykv/FilmCard",
             "inProgres":"true"
@@ -58,7 +58,7 @@
             "text": "Layout som viser reise- og utforskningsinnhold.",
             "textBottom": "React.js, TypeScript, ChakraUI",
             "textRight": "2022",
-            "image": "./Portfolio/travel.jpg",
+            "image": "travel.jpg",
             "link":"https://kslazykv.github.io/TravelCard/",
             "code":"https://github.com/kslazykv/TravelCard"
           }
@@ -70,7 +70,7 @@
               "text": "CRM-CMS nettsted hvor du kan bestille private fly.",
               "textBottom": "React.js, TypeScript, Next.js, ChakraUI",
               "textRight": "2022",
-              "image": "./Portfolio/cielo.jpg",
+              "image": "cielo.jpg",
               "link":"https://www.cielo-aviation.com/it-IT"
           },
           {
@@ -79,7 +79,7 @@
               "text": "Nettstedet til mitt gamle firma som spesialiserer seg på innovative løsninger.",
               "textBottom": "React.js, TypeScript, ChakraUI",
               "textRight": "2022",
-              "image": "./Portfolio/hyperting.jpg",
+              "image": "hyperting.jpg",
               "link":"https://www.hyperting.com/"
           },
           {
@@ -88,7 +88,7 @@
               "text": "Shopping-nettsted som selger cannabisprodukter.",
               "textBottom": "React.js, TypeScript, ChakraUI",
               "textRight": "2021",
-              "image": "./Portfolio/fattisegreti.jpg",
+              "image": "fattisegreti.jpg",
               "link":"https://www.fattisegreti.it/"
           },
           {
@@ -97,7 +97,7 @@
               "text": "Nettstedet til en av de eldste butikkene i Bologna grunnlagt i 1783.",
               "textBottom": "React.js, TypeScript",
               "textRight": "2021",
-              "image": "./Portfolio/aguzzeria.jpg",
+              "image": "aguzzeria.jpg",
               "link":"https://aguzzeriadelcavallo.it/"
           },
           {
@@ -106,7 +106,7 @@
               "text": "Shopping-nettsted som selger moteklær.",
               "textBottom": "React.js, TypeScript, Next.js, Apollo",
               "textRight": "2020",
-              "image": "./Portfolio/feliciotto.jpg",
+              "image": "feliciotto.jpg",
               "link":"https://feliciotto.com/"
           }
         ]
@@ -122,27 +122,27 @@
             "base":[
             {
                 "title": "HTML5",
-                "image":"./Portfolio/HTML.png",
+                "image":"HTML.png",
                 "link":"https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
             },
             {
                 "title": "CSS3",
-                "image":"./Portfolio/CSS.png",
+                "image":"CSS.png",
                 "link":"https://developer.mozilla.org/en-US/docs/Web/CSS"
             },
             {
                 "title": "JavaScript",
-                "image":"./Portfolio/JavaScript.png",
+                "image":"JavaScript.png",
                 "link":"https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             },
             {
                 "title": "TypeScript",
-                "image":"./Portfolio/TypeScript.png",
+                "image":"TypeScript.png",
                 "link":"https://www.typescriptlang.org/"
             },
             {
                 "title": "React.js",
-                "image":"./Portfolio/React.png",
+                "image":"React.png",
                 "link":"https://react.dev/"
             },
             {
@@ -152,29 +152,29 @@
             },
             {
                 "title": "Bootstrap",
-                "image":"./Portfolio/Bootstrap.png",
+                "image":"Bootstrap.png",
                 "link":"https://getbootstrap.com/"
             },
             {
                 "title": "MaterialUI",
-                "image":"./Portfolio/MaterialUI.png",
+                "image":"MaterialUI.png",
                 "link":"https://mui.com/"
             },
             {
                 "title": "Git",
-                "image":"./Portfolio/Git.png",
+                "image":"Git.png",
                 "link":"https://git-scm.com/"
             },
             {
                 "title": "NPM & Yarn",
-                "image":"./Portfolio/NPM_Yarn.png",
+                "image":"NPM_Yarn.png",
                 "link":"https://www.npmjs.com/package/yarn"
             }
         ],
         "medium":[
             {
                 "title": "Next.js",
-                "image":"./Portfolio/NextJS.png",
+                "image":"NextJS.png",
                 "link":"https://nextjs.org/"
             },
             {
@@ -184,18 +184,18 @@
             },
             {
                 "title": "React Native",
-                "image":"./Portfolio/React.png",
+                "image":"React.png",
                 "link":"https://reactnative.dev/"
             }
         ],
         "toDo":[
             {
                 "title": "Back-End",
-                "image":"./Portfolio/Back_End.png"
+                "image":"Back_End.png"
             },
             {
                 "title": "Testing",
-                "image":"./Portfolio/Testing.png"
+                "image":"Testing.png"
             }
         ]
     }
@@ -206,22 +206,22 @@
         "cards":[
             {
                 "title": "My CV",
-                "image":"./Portfolio/cv.png",
+                "image":"cv.png",
                 "link":"CV_KSlazyk.pdf"
             },
             {
                 "title": "LinkedIn",
-                "image":"./Portfolio/linkedin.png",
+                "image":"linkedin.png",
                 "link":"https://www.linkedin.com/in/karolina-slazyk/"
             }, 
             {
                 "title": "GitHub",
-                "image":"./Portfolio/github.png",
+                "image":"github.png",
                 "link":"https://github.com/kslazykv"
             }, 
             {
                 "title": "Email",
-                "image":"./Portfolio/email.png",
+                "image":"email.png",
                 "link":"mailto:kslazykv@gmail.com"
             }
 
