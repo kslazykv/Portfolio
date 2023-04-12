@@ -21,7 +21,7 @@ export const About : FC<Props> = (props) => {
                     textAlign='justify'
                 />
                 <Image 
-                    src={'./Portfolio/me_bergen.jpg'}
+                    src={'me_bergen.jpg'}
                     w={{base:'100%', md:'40%'}}
                 />
             </Flex>
