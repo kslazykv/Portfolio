@@ -16,7 +16,7 @@ type Props = {
 
 
 export const MyGrid:FC<Props> = (props) =>{
-    const { children, title,box,section,startingHeight,startingHeightMobile='510px', ...rest } = props
+    const { children, title,box,section,startingHeight,startingHeightMobile='500px', ...rest } = props
     const isMobile = useBreakpointValue({base:true, md:false})
     const buttonColor = useColorModeValue( 'rgba(246,173,85,.5)','rgba(49,151,149,.3)')
     const buttonHover = useColorModeValue( 'rgba(254,252,191,.5)','rgba(144,205,244,.3)')
@@ -63,7 +63,7 @@ export const MyGrid:FC<Props> = (props) =>{
 
     const  ShowMoreButton=()=> {
         return (
-            <Button 
+            <Button  
                 display={{base:box==='ProjectBox'?'flex':'none',md:cards.length>=2&&box==='ProjectBox'?'flex':'none',lg:cards.length>3&&box==='ProjectBox'?'flex':'none'}}
                 rightIcon={!show?<ChevronDownIcon />:<ChevronUpIcon/>} 
                 bgColor={buttonColor}
@@ -85,7 +85,7 @@ export const MyGrid:FC<Props> = (props) =>{
             <Collapse            
                 startingHeight={!show? box==='ShortBox'?'110%':isMobile? startingHeightMobile : startingHeight :'100%'} 
                 in={show}
-                style={{width:'100%', paddingTop:10, marginBottom:10}}
+                style={{width:'100%', paddingTop:10, paddingBottom:10}}
                 
             >
                 <SimpleGrid 

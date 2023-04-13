@@ -15,8 +15,8 @@ export const ProjectPage : FC<Props> = (props) => {
     return(
         <Wrapper title={`${t('projectPage.title')}`} id='products' subtitle={`${t('projectPage.subtitle')}`}>
          
-            <MyGrid section='projectPage.cards.website' title={t('projectPage.website')} box='ProjectBox' startingHeight='490px' startingHeightMobile='460px'/>
-            <MyGrid section='projectPage.cards.components' title={t('projectPage.components')} box='ProjectBox'startingHeight='540px'/>
+            <MyGrid section='projectPage.cards.website' title={t('projectPage.website')} box='ProjectBox' startingHeight='490px' />
+            <MyGrid section='projectPage.cards.components' title={t('projectPage.components')} box='ProjectBox'startingHeight='540px' startingHeightMobile="480px"/>
             
             <Dots pos='pro'/>
          
