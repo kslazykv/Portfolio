@@ -28,9 +28,10 @@ export const Layout = ({ children }: { children: ReactNode }) => {
       <Box
         mt={{ base: "-72px", md: "-45px" }}
         bgImage={bgImage}
-        backgroundSize={{ base: "contain", md: "cover" }}
+        backgroundSize={{ base:  "cover" }}
         backgroundPosition={"top"}
         backgroundRepeat={"no-repeat"}
+        backgroundAttachment={{base:"fixed",md:'scroll'}}
         overflow={"hidden"}
         zIndex={-1}
         transition="background-image 0.8s ease-in-out"

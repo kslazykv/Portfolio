@@ -133,7 +133,7 @@
     "toDo": "Jeg prøver å lære:",
     "cards": {
       "tab1": {
-        "title": "Web Technologies",
+        "title": "Nettteknologier",
         "arr": [
           {
             "title": "HTML5",
@@ -158,7 +158,7 @@
         ]
       },
       "tab2": {
-        "title": "React Ecosystem",
+        "title": "React-Økosystemet",
         "arr": [
           {
             "title": "React.js",
@@ -193,7 +193,7 @@
         ]
       },
       "tab3": {
-        "title": "CSS Libraries",
+        "title": "CSS-Biblioteker",
         "arr": [
           {
             "title": "Tailwind CSS",
@@ -218,7 +218,7 @@
         ]
       },
       "tab4": {
-        "title": "API Tools",
+        "title": "API-Verktøy",
         "arr": [
           {
             "title": "GraphQL (Apollo)",
@@ -228,7 +228,7 @@
         ]
       },
       "tab5": {
-        "title": "Development Tools",
+        "title": "Utviklingsverktøy",
         "arr": [
           {
             "title": "Git",
@@ -253,7 +253,7 @@
         ]
       },
       "tab6": {
-        "title": "Testing Tools",
+        "title": "Testverktøy",
         "arr": [
           {
             "title": "Cypress",
@@ -263,7 +263,7 @@
         ]
       },
       "tab7": {
-        "title": "Learning",
+        "title": "Læring",
         "arr": [
           {
             "title": "Testing",

@@ -133,7 +133,7 @@
     "toDo": "Sto cercando di imparare:",
     "cards": {
       "tab1": {
-        "title": "Web Technologies",
+        "title": "Tecnologie Web",
         "arr": [
           {
             "title": "HTML5",
@@ -158,7 +158,7 @@
         ]
       },
       "tab2": {
-        "title": "React Ecosystem",
+        "title": "Ecosistema React",
         "arr": [
           {
             "title": "React.js",
@@ -193,7 +193,7 @@
         ]
       },
       "tab3": {
-        "title": "CSS Libraries",
+        "title": "Librerie CSS",
         "arr": [
           {
             "title": "Tailwind CSS",
@@ -218,7 +218,7 @@
         ]
       },
       "tab4": {
-        "title": "API Tools",
+        "title": "Strumenti API",
         "arr": [
           {
             "title": "GraphQL (Apollo)",
@@ -228,7 +228,7 @@
         ]
       },
       "tab5": {
-        "title": "Development Tools",
+        "title": "Strumenti di Sviluppo",
         "arr": [
           {
             "title": "Git",
@@ -253,7 +253,7 @@
         ]
       },
       "tab6": {
-        "title": "Testing Tools",
+        "title": "Strumenti di Test",
         "arr": [
           {
             "title": "Cypress",
@@ -263,7 +263,7 @@
         ]
       },
       "tab7": {
-        "title": "Learning",
+        "title": "Apprendimento",
         "arr": [
           {
             "title": "Testing",
